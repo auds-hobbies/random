@@ -57,9 +57,6 @@
     <div class="container" >
         <!-- Content for the blue div goes here -->
           <img src="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard.png?raw=true"  width = "350"  />  
-          <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  /> 
-
-         <img src="https://https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard.png?raw=true"  width = "350"  /> 
     </div>
 </section>
 
