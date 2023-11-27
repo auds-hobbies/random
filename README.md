@@ -47,7 +47,7 @@
 <br><br><br>
 <section>
     <h3> Contact Center - Call Analysis Power BI Dashboard </h3>
-    <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients.</p>
+    <p> Analysis on calls within a contact center over a 3 month period. </p>
     <p>
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub </a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
