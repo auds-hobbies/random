@@ -50,7 +50,7 @@
     <p> Analysis on calls within a contact center over a 3 month period. </p>
     <p>
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub </a>,
-        <a href="https://twitter.com/auds2000pro" target="_blank"> Twitter</a>,
+        <a href="https://x.com/auds2000pro/status/1729250453584531490?s=20" target="_blank"> Twitter</a>,
         <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
         <a href="#report" target="_blank"> Report (PowerPoint) </a>
     </p>
