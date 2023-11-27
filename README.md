@@ -44,6 +44,27 @@
 
 
 
+<br><br><br>
+<section>
+    <h3> Contact Center - Call Analysis Power BI Dashboard </h3>
+    <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients.</p>
+    <p>
+        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub </a>,
+        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
+        <a href="#report" target="_blank"> Report (PowerPoint) </a>
+    </p>
+    <div class="container" >
+        <!-- Content for the blue div goes here -->
+          <img src="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard.png?raw=true"  width = "350"  />  
+         
+    </div>
+</section>
+
+
+
+
+
 <h1>MY DATA ANALYSIS & DATA SCIENCE PORTFOLIO</h1>
 Hi there, Audry here. I'm passionate about leveraging data to drive informed decisions. I have organized my portfolio into two main categories:
 <ul>
@@ -68,102 +89,7 @@ Below is a list of select projects accomplished with tools such as, but not limi
 
 
 
-<br><br><br>
-<section>
-    <h3> Health Risk Analysis - Power BI Dashboard </h3>
-    <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients.</p>
-    <p>
-        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub </a>,
-        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
-        <a href="#report" target="_blank"> Report (PowerPoint) </a>
-    </p>
-    <div class="container" >
-        <!-- Content for the blue div goes here -->
-          <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "350"  />  
-          <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />  
-    </div>
-</section>
 
-<br><br><br>
-<section> 
-   <h3> Real Estate Analytics - Power BI Dashboard </h3>
-    <p> Analysis on property data.</p>
-    <p>
-        <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub</a>,
-        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
-    </p>
-    <div style="width: 350 px; float: left; height: 350 px;">
-        <!-- Content for the brown div goes here -->
-         <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate1.png?raw=true"  width = "300"  />
-        <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate2.png?raw=true"  width = "350"  />
-    </div> 
-</section> 
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
-<section> 
-   <h3> Crime Analysis - Power BI Dashboard </h3>
-    <p> Analysis on crime. </p>
-    <p>
-        <a href="https://github.com/auds-hobbies/dashboard_crime_geo_visualization" target="_blank"> GitHub</a>,
-        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
-    </p>
-    <div style="width: 350 px; float: left; height: 350 px;">
-        <!-- Content for the brown div goes here -->
-         <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png?raw=true"  width = "350"  />
-        <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png?raw=true"  width = "350"  />
-    </div> 
-</section>
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
-<section> 
-   <h3> Lean Manufacturing (Process Improvement) - Power BI Dashboard </h3>
-    <p> Analysis on manufacturing process for improvement purposes. </p>
-    <p>
-        <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub</a>,
-        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
-    </p>
-    <div style="width: 350 px; float: left; height: 350 px;">
-        <!-- Content for the brown div goes here -->
-        <img src="https://github.com/auds-hobbies/p3_manufacturing/blob/main/Screenshot%20manufacturing1.png?raw=true"  width = "350"  />
-    </div> 
-</section> 
-
-<br><br><br><br><br><br><br><br>
-<h1>DATA SCIENCE PORTFOLIO</h1>
-Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc: 
-<ul>
-    <li> <b>(Telcom):</b> Customer Analytics / Customer Segmentation   </li>
-    <li> <b>(Health)[<i>web app</i>]:</b> Heart Risk Analysis / Heart Risk Predictor / Spatial Analysis / Patient Segmentation   </li>
-    <li> <b>(Government)[<i>web app/dashboard</i>]:</b> Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
-    <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
-</ul>
-
- 
-<br>
-<section>
-    <h3> Heart Risk Predictor </h3> 
-    <p> A machine learning project with multi-purpose outcomes created for nurses/doctors, insurance companies, and ......: </p> 
-    <ul>
-        <li> Heart Risk Predictor: prediction of heart risk of patients   </li>
-        <li> Spatial Analysis Dashboard:   </li>
-        <li> Client Analysis Dashboard:   </li>
-    </ul>
-    <p>
-        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
-        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
-        <a href="#report" target="_blank"> Report (PowerPoint)</a>
-    </p>
-      <div style="width: 350 px; float: left; height: 350 px;">
-    <!-- Content for the blue div goes here -->
-     <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
-    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
-    </div>
-</section>
 
 
 
