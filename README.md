@@ -37,17 +37,12 @@
     </head>
     <body>
 <nav>
-    <a href="https://auds-hobbies.github.io/">GitHub Webpage</a>
-    <a href="https://twitter.com/auds2000pro">Twitter</a>
+    <a href="https://auds-hobbies.github.io/">GitHub Webpage</a>, 
+    <a href="https://twitter.com/auds2000pro">Twitter</a>, 
     <a href="https://www.youtube.com/@auds2000pro/videos">YouTube</a>  
 </nav>
 
-https://youtu.be/AEtLjjGaEUI  
-
-### Video 
-Click on the picture below to view a video of the Excel Dashboard, Power BI Dashboard, and Heart Risk Predictor web app:
-
-[![Watch the video](https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard.png)](https://www.youtube.com/watch?v=AEtLjjGaEUI)
+  
 
 
 
@@ -61,6 +56,7 @@ Click on the picture below to view a video of the Excel Dashboard, Power BI Dash
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub </a>,
         <a href="https://x.com/auds2000pro/status/1729250453584531490?s=20" target="_blank"> Twitter</a>,
         <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
+        <a href="https://youtu.be/AEtLjjGaEUI" target="_blank"> YT</a>,
         <a href="#report" target="_blank"> Report (PowerPoint) </a>
     </p>
     <div class="container" >
