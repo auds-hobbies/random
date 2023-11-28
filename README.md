@@ -42,6 +42,15 @@
     <a href="https://www.youtube.com/@auds2000pro/videos">YouTube</a>  
 </nav>
 
+https://youtu.be/AEtLjjGaEUI  
+
+### Video 
+Click on the picture below to view a video of the Excel Dashboard, Power BI Dashboard, and Heart Risk Predictor web app:
+
+[![Watch the video](https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard.png)](https://www.youtube.com/watch?v=AEtLjjGaEUI)
+
+
+
 
 
 <br><br><br>
