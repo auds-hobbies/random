@@ -61,11 +61,13 @@
     </p>
     <div class="container" >
         <!-- Content for the blue div goes here -->
-          <img src="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard.png?raw=true"  width = "350"  />  
+          <img src="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard3_kpi.png?raw=true"  width = "350"  />  
     </div>
 </section>
 
+https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard3_kpi.png 
 
+https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard.png
 
 
 
