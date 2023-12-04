@@ -46,6 +46,28 @@
 
 
 
+<br><br> <br><br><br><br><br>
+
+<section>
+<h3> Call Center Analysis (Power BI Dashboard) </h3> 
+<p> Analyses on selected call center operations that help Call Center Managers have first hand overview of selected KPIs. </p> 
+<ul>
+        <li> <b>Statistical Analysis & Hypothesis Tests: </b>Summary statistics, e.g., mean; correlation with spearman; and hypothesis testing   </li>
+        <li> <b>Approach: </b>Engineered new features along with combinining location data from SFO dataset. Calculated KPIs/metrics with python.     </li>
+        <li> <b>Outcomes:</b> Power BI dashboard    </li>
+</ul>
+<p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
+        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_01.py" target="_blank"> Python Code </a>,
+        <a href="https://www.youtube.com/watch?v=AEtLjjGaEUI&t=87s"> YouTube (Power BI Dashboard)</a>,
+        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_centre_powerbi_dashboard_presentation.pdf"> Report (PowerPoint)</a>
+</p>
+<div style="width: 350 px; float: left; height: 350 px;">
+    <!-- Content for the blue div goes here -->
+    <img src="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard3_kpi.png?raw=true" width="350" />
+    
+</div>
+</section>  
+
 
 
 <br><br><br>
@@ -71,15 +93,8 @@ https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_pow
 
 
 
-<h1>MY DATA ANALYSIS & DATA SCIENCE PORTFOLIO</h1>
-Hi there, Audry here. I'm passionate about leveraging data to drive informed decisions. I have organized my portfolio into two main categories:
-<ul>
-    <li> Data Science </li>
-    <li> Data Analysis </li>
-</ul>
-    Journey through my portfolio, where each project is an embodiment of a data-driven solution.
+<h1>OTHER DATA ANALYSIS & DATA SCIENCE PROJECTS </h1>
 
-<h1>DATA ANALYSIS PORTFOLIO</h1>
 Below is a list of select projects accomplished with tools such as, but not limited to Power BI, Excel, and python, to name a few: 
 <ul>
     <li> <b>(Health):</b> Health Risk Analysis   </li>  
