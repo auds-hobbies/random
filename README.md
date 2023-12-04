@@ -71,29 +71,9 @@
 
 
 <br><br><br>
-<section>
-    <h3> Contact Center - Call Analysis Power BI Dashboard </h3>
-    <p> Analysis on calls within a contact center over a 3 month period. </p>
-    <p>
-        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_01.py" target="_blank"> Python code </a>,
-        <a href="https://x.com/auds2000pro/status/1729250453584531490?s=20" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
-        <a href="https://youtu.be/AEtLjjGaEUI" target="_blank"> YT</a>,
-        <a href="#report" target="_blank"> Report (PowerPoint) </a>
-    </p>
-    <div class="container" >
-        <!-- Content for the blue div goes here -->
-          <img src="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard3_kpi.png?raw=true"  width = "350"  />  
-    </div>
-</section>
-
-https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard3_kpi.png 
-
-https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard.png
 
 
-
-<h1>OTHER DATA ANALYSIS & DATA SCIENCE PROJECTS </h1>
+<h1>Other Data Analysis & Data Science Projects </h1>
 
 Below is a list of select projects accomplished with tools such as, but not limited to Power BI, Excel, and python, to name a few: 
 <ul>
