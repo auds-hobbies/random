@@ -42,7 +42,31 @@
     <a href="https://www.youtube.com/@auds2000pro/videos">YouTube</a>  
 </nav>
 
-  
+   
+
+
+
+<br><br> <br><br><br><br><br>
+
+<section>
+<h3> Dutch Electricity Supply & Gas Consumption: 2010 - 2022 -  (Power BI Dashboard) </h3> 
+<p> Analyses on selected electricity supply and gas consumption. </p> 
+<ul>
+        <li> <b>Data: </b> electricity supply and gas consumption data; Netherlands shape files   </li>
+        <li> <b>Approach: </b>Merged electricity data with shape files and engineered new features with python. Calculated KPIs/metrics with python and Power BI DAX.     </li>
+        <li> <b>Outcomes:</b> Power BI dashboard    </li>
+</ul>
+<p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
+        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_01.py" target="_blank"> Python Code - TBA </a>,
+        <a href="https://www.youtube.com/watch?v=nNOSViUlC6Q"> YouTube (Power BI Dashboard)</a>,
+        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_centre_powerbi_dashboard_presentation.pdf"> Report (PDF) - TBA</a>
+</p>
+<div style="width: 350 px; float: left; height: 350 px;">
+    <!-- Content for the blue div goes here -->
+    <img src="https://github.com/auds-hobbies/random/blob/main/github_dutch_electricity_power_bi_dashboard.png?raw=true" width="350" />
+    
+</div>
+</section>  
 
 
 
